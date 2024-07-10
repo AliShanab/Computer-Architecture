@@ -122,18 +122,27 @@ Key Takeaways
 Example Code in C++
 
 int square(int num) {
+    
     return num * num;
+
 }
 
 Corresponding Assembly Code (x86-64 gcc 14.1)
 
 square(int):
+
         push    rbp
+        
         mov     rbp, rsp
+        
         mov     DWORD PTR [rbp-4], edi
+        
         mov     eax, DWORD PTR [rbp-4]
+        
         imul    eax, eax
+        
         pop     rbp
+        
         ret
 
 Key Takeaways from the Code Example
