@@ -160,19 +160,19 @@ Function Definition: The square function takes an integer as an argument and ret
 
 **Assembly Instructions:**
 
-- push rbp: Save the base pointer.
+- <code>push rbp</code>: Save the base pointer.
 
-- mov rbp, rsp: Set the base pointer to the current stack pointer.
+- <code>mov rbp, rsp</code>: Set the base pointer to the current stack pointer.
 
-- mov DWORD PTR [rbp-4], edi: Move the argument num into a local variable.
+- <code>mov DWORD PTR [rbp-4], edi,</code>: Move the argument num into a local variable.
 
-- mov eax, DWORD PTR [rbp-4]: Move the value of the local variable into the eax register.
+- <code>mov eax, DWORD PTR [rbp-4]</code>: Move the value of the local variable into the eax register.
 
-- imul eax, eax: Multiply eax by itself (square the number).
+- <code>imul eax, eax</code>: Multiply eax by itself (square the number).
 
-- pop rbp: Restore the base pointer.
+- <code>pop rbp</code>: Restore the base pointer.
 
-- ret: Return from the function.
+- <code>ret</code>: Return from the function.
 
 
 **Personal Insights or Reflections:**
