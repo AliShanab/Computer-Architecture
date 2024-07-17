@@ -121,7 +121,7 @@ Example: The PC moves to the address of the next instruction after the IF statem
 
 **Compiler Explorer**
 
-**URL:** (https://godbolt.org/)
+**URL:** https://godbolt.org/
 
 **Summary of Content:**
 
