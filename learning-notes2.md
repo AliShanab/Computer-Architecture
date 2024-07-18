@@ -8,7 +8,7 @@
 
 <h2>Critical Analysis:</h2> 
 
-<h3>major advantages</h3>
+<h3>Major advantages</h3>
 
 <ul>
 
