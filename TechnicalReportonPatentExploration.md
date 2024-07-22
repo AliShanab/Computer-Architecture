@@ -38,5 +38,5 @@
 
 <p>This journey has really opened up my view on how computer architecture has evolved from single-core to multi-core systems. It highlights the significance of resource handling and scheduling in today's computing world. The core concepts presented in this patent are still influencing advancements in computing, showing how foundational innovations shape future technologies. The transition from single-core to multi-core processors has allowed for exponential growth in computing power, enabling new applications and capabilities that were previously unimaginable. The principles of parallel processing and dynamic scheduling continue to drive research and development in computer architecture, ensuring that future systems will be even more powerful and efficient.</p>
 
-<References>
+<h1>References</h1>
 <p>Thornton, J. E., & Cray, S. R. (1967). Simultaneous Multiprocessing Computer System. U.S. Patent No. 3,346,851.</p>
