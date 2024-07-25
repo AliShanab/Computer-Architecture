@@ -174,6 +174,6 @@ Function Definition: The square function takes an integer as an argument and ret
 - <code>ret</code>: Return from the function.
 
 
-<h2>Personal Insights or Reflections:</h2>
+<h2>Reflections:</h2>
 
 Exploring Compiler Explorer helped me understand the relationship between high-level C++ code and low-level assembly code. It was insightful to see how a simple function like square is translated into a sequence of assembly instructions. This tool can be very useful for debugging and optimizing code.
