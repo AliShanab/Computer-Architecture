@@ -11,3 +11,5 @@
 <h2>Technical Report on Patent Exploration</h2>
 <p>https://github.com/AliShanab/Learning-Documentation/blob/main/TechnicalReportonPatentExploration.md</p>
 
+<h2>Bonus Task - Understanding of Circuits and IC</h2>
+<p>https://github.com/AliShanab/Learning-Documentation/blob/main/BonusTask.md</p>
