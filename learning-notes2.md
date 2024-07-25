@@ -5,9 +5,10 @@ https://ieeexplore.ieee.org/document/8718630
 
 <h2>Summary:</h2> 
 
-<p>The academic paper named "An Overview of Techniques and Tools, for Simulating Computer Architecture" offers insights into the simulation methods and tools utilized in computer architecture research. Its main objective is to summarize the simulation techniques highlighting their benefits, limitations and suitable applications. The study delves into methodologies such as execution driven simulation that replicates real time instruction execution; trace driven simulation that utilizes existing program execution traces for simulation purposes;. Hybrid simulation that integrates aspects of both execution driven and trace driven approaches. Furthermore it discusses simulation software like Simics, GEM5 and SimpleScalar focusing on their functionalities, capabilities and specific uses in the realm of computer architecture.</p>
+<p>The academic paper titled "A Review of Methods and Instruments, for Simulating Computer Architecture" provides insights into the simulation techniques and tools used in computer architecture research. Its main aim is to summarize the simulation methods emphasizing their advantages, limitations and suitable applications. The study explores methodologies such as execution driven simulation, which mimics real time instruction execution; trace driven simulation, which utilizes existing program execution traces for simulations;. Hybrid simulation, which combines elements of both execution driven and trace driven approaches. Additionally it discusses simulation software like Simics, GEM5 and SimpleScalar focusing on their features, capabilities and specific uses in the field of computer architecture.</p>
 
-<p>The findings underscore the significance of simulation in the development and evaluation of computer architectures. Simulation enables researchers to explore innovations and evaluate performance metrics without relying on time consuming models. While there have been advancements in simulation techniques and tools challenges remain to be addressed. Improving the accuracy and efficiency of simulations as creating more user friendly interfaces are highlighted as key areas for enhancement. The research suggests that continual progress, in simulation technology is crucial to meet the evolving demands of computer architecture studies given the increasing complexity and diversity of architectures.</p>
+<p>The results emphasize the importance of simulation in developing and evaluating computer architectures. Simulation allows researchers to explore innovations and assess performance metrics without relying on time consuming models. Although there have been advancements in simulation techniques and tools challenges still need to be addressed. Enhancing the accuracy and efficiency of simulations while creating user interfaces are highlighted as key areas for improvement. The study suggests that continuous progress in simulation technology is essential to meet the evolving needs of computer architecture studies due, to the increasing complexity and diversity of architectures.</p>
+
 
 
 <h2>Critical Analysis:</h2> 
@@ -62,9 +63,29 @@ https://eseo-tech.github.io/emulsiV/
   <li>Learning Curve: While it offers powerful visualization capabilities, new users may find it challenging to navigate and utilize all its features effectively without adequate guidance or prior knowledge of processor architecture.</li>
 </ul>
 
-<h2>Comparison with Traditional Tools: Simulink or MATLAB</h2>
-<p>When we compare emulsiV to simulation tools, like Simulink or MATLAB it's clear that emulsiV is designed for processor simulations. While traditional tools offer a range of functionalities for types of simulations such as control systems and signal processing emulsiV stands out in providing detailed and interactive simulations tailored to the Virgule processor. In terms of user friendliness tools may have intuitive interfaces and comprehensive documentation making them accessible to a broader audience. On the hand emulsiVs specialized approach allows for in depth exploration of processor operations, which can be especially valuable, for users and researchers.
-</p>
+<h2>Comparison with Traditional Tools: Gem5</h2>
+<p>emulsiV and gem5 are both tools used for simulating and analyzing computer systems, but they have different focuses and strengths. Their key differenes summary:</p><br>
+<p><strong>Performance:</strong></p>
+<ul>
+  <li>emulsiV: Prioritizes ease of use and visualization over raw performance.</li>
+  <li>gem5: Known for high performance and detailed, accurate simulations.</li>
+</ul><br>
+
+<p><strong>Ease of Use:</strong></p>
+<ul>
+  <li>emulsiV: User-friendly with a focus on education and ease of setup.</li>
+  <li>gem5: More complex with a steep learning curve but offers extensive customization and optimization.</li>
+</ul><br>
+
+<p><strong>Application Areas:</strong></p>
+<ul>
+  <li>emulsiV: Best suited for education and quick prototyping in research.</li>
+  <li>gem5: Ideal for in-depth research, performance analysis, and advanced simulation scenarios.</li>
+</ul><br>
+
+<p>While both emulsiV and gem5 have their strengths, the choice between them depends on the specific needs of the user. For educational purposes and ease of use, emulsiV is a strong candidate. For detailed research and high-performance simulations, gem5 is the preferred tool.</p>
+
 
 <h2>Practical Application:</h2>
-<p>One potential scenario where emulsiV could be effectively applied is, in creating an program centered on RISC V processor architecture. The aim of this initiative would be to develop a series of modules that assist students in understanding the fundamentals of processor design. Utilizing emulsiV for real time simulations and visual aids the curriculum would offer students exposure to processor functions thereby enriching their comprehension and retention of the subject matter. Moreover this tool could serve as a resource for research enabling students to explore custom alterations to the Virgule processor and observe the consequences of their modifications within a controlled virtual environment. Such an approach not enhances outcomes but also nurtures innovation and deeper involvement, with processor design concepts.</p>
+<p>One possible situation where emulsiV might be effectively utilized is when developing a program focused on the RISC V processor architecture. The goal of this project would be to create a set of modules that help students grasp the basics of processor design. By using emulsiV for real time simulations and visual aids the curriculum could provide students, with hands on experience with processor functions enhancing their understanding and retention of the subject matter. Additionally this tool could function as a platform for research allowing students to experiment with custom modifications to the Virgule processor and observe the impact of their changes within a controlled setting. Such an approach not improves results. Also fosters innovation and deeper engagement, with processor design principles.
+</p>
